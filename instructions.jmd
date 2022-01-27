@@ -17,7 +17,7 @@ Homework 0 is intended to get you up and running with cloning the assignments us
 
 ## What To Submit
 
-Submit a single `.pdf` file to Gradecope. Make sure to tag each problem. You should include code with your submission in code blocks as needed for your solution. Similarly, figures should be captioned appropriately. You'll be walked through creating a document in this fashion in this assignment. Note that some prompts (like pre-specified code blocks) will not be included in future assignment instructions and templates, and you will need to include those as specified here. **Make sure that your final report includes a References section!**
+Submit a single `.pdf` file to Gradecope. Make sure to tag each problem. You should include code with your submission in code blocks as needed for your solution. Similarly, figures should be captioned appropriately. You'll be walked through creating a document in this fashion in this assignment. Note that some prompts (like pre-specified code blocks) will not be included in future assignment instructions and templates, and you will need to include those as specified here. **Make sure that your final report includes a "References" section!**
 
 To generate your `.pdf` locally, you'll need to have LaTeX and Julia installed on your system. Open the Julia REPL from the local working directory (or write a script to do these steps) and enter:
 
