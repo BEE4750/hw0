@@ -35,3 +35,7 @@ compile_report("solution-file-name.jmd", "html")
 ```
 
 We've also configured the Github repositories to attempt to compile your `.jmd` file into a `.pdf` when you push commits to your repository. This may take a little bit of time (Julia and LaTeX both need to be installed on the server every time this is attempted), but if it is successful, you will end up with a `.pdf` in your repository that you can download through a `git pull` command and submit to Gradescope. If it is not successful, this doesn't necessarily mean that there's a problem; you might not be at a stage where you intended your report to be compilable. This ensures that you have a `.pdf` to submit even if you only compile your report to HTML locally.
+
+## Assignment Logistics
+
+For information on accessing, writing, compiling, and submitting your report, see [the course website](https://viveks.me/environmental-systems-analysis/assignments/assignment-logistics/).
