@@ -50,4 +50,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add *.pdf
           git commit -m "compile PDFs"
-          git push origin $GITHUB_REF
+          git push

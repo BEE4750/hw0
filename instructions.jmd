@@ -36,7 +36,7 @@ If you have the Julia REPL open, you can also compile your file to a `.pdf` usin
 include("compile_report.jl")
 compile_report("solution-file-name.jmd")
 ```
-or to HTML by adding in the optional argument
+or to HTML by adding in the optional "html" argument
 
 ```julia, eval=false
 include("compile_report.jl")
