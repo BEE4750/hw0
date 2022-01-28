@@ -41,7 +41,7 @@ jobs:
         if: steps.changed-jmd-files.outputs.any_changed == 'true'
         run: |
           for file in ${{ steps.changed-jmd-files.outputs.all_changed_files }}; do
-            julia -e "using Pkg; Pkg.activate('.'); using Weave; Weave.weave($file, doctype='md2pdf', template='bee4750.tpl', fig_path='figures')"
+            julia compile_report.jl $file pdf
           done
       - name: Commit and Push Compiled PDFs
         if: steps.changed-jmd-files.outputs.any_changed == 'true'

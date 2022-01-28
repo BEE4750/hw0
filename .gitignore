@@ -32,3 +32,8 @@ Manifest.toml
 *.aux
 *.out
 *.log
+*.fls
+*.fdb*
+
+# HTML output
+*.html
