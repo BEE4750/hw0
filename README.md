@@ -1,5 +1,7 @@
 # BEE 4750 Homework 0
 
+Instructions: [![Web Instructions]("https://img.shields.io/static/v1?label=HW0&message=HTML&color=b31b1b&labelColor=222222&style=flat")](https://viveks.me/environmental-systems-analysis/assignments/hw0/hw0/) [![PDF Instructions]("https://img.shields.io/static/v1?label=HW0&message=PDF&color=b31b1b&labelColor=222222&style=flat")](https://viveks.me/environmental-systems-analysis/assignments/hw0/hw0.pdf)
+
 This homework assignment is intended to make sure that students can install Julia, use Github to clone the homework repository, and use Gradescope to submit solutions. Please contact the instructor and TA if there are any hiccups.
 
 ## Learning Objectives
